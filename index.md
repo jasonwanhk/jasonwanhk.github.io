@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 溫智皓
+![Imgur](https://i.imgur.com/YRfKQej.png)
 
-You can use the [editor on GitHub](https://github.com/jasonwanhk/jasonwanhk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 學歷
+台東大學 資訊管理學系  <br />
+國立臺北大學 資訊管理研究所
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 專題與論文
+1. 大學畢業專題：視錯覺遊戲
 
-### Markdown
+## 語言偏好
+1. Python
+2. SQL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 專長
+1. 資料分析
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 興趣
+1. 貓貓狗狗
+2. Netflix
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonwanhk/jasonwanhk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
